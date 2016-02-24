@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Car</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="time">Время</string>
+    <string name="date">Дата</string>
+    <string name="errorInternetConnection">Проверьте подключение к интернету</string>
+    <string name="addressNotFound">Адрес не найден</string>
+    <string name="notSelectedStartPoint">Выберите начальную точку</string>
+    <string name="button_text_create_round">Создать маршрут</string>
+</resources>
